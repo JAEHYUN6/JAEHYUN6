@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JAEHYUNYUK
+👋 Hi, I’m @JAEHYUNYUK
 
-- 👀 머신러닝 / 딥러닝 / 인공지능
+👀 머신러닝 / 딥러닝 / 인공지능
 
 "늦지 않았다"
 
