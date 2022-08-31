@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi!&fontSize=90)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYUN6)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYUN6&hide=contribs,prs)
 
 👀 머신러닝 / 딥러닝 / 인공지능
 
