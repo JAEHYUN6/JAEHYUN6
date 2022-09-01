@@ -4,7 +4,7 @@
 
 👀 머신러닝 / 딥러닝 / 인공지능
 
-👨‍💻 아직 늦지 않았다
+👨‍💻 꾸준하게 
 
 <!---
 JAEHYUNYUK/JAEHYUNYUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
