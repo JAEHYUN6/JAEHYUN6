@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYUN6&hide=contribs,prs)
 
-👀 머신러닝 / 딥러닝 / 인공지능
+👀 머신러닝 / 딥러닝 
 
 👨‍💻 꾸준하게 열심히
 
