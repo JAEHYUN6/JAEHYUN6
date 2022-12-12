@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Hi!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Welcome&fontSize=70)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYUN6&hide=contribs,prs)
 
