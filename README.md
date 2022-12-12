@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYUN6&hide=contribs,prs)
 
-👀 머신러닝 / 딥러닝 
+👀 Machine Learning / Deep Learning
 
-👨‍💻 꾸준하게 열심히
+👨‍💻 꾸준히 열심히
 
 <!---
 JAEHYUNYUK/JAEHYUNYUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
